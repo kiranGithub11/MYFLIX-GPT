@@ -2,6 +2,8 @@
 - create-react-app
 - tailwind setup
 - deleted unwanted files
+- Login Form 
+- Sign Up Form
 
 # features
 - Login / Sign Up
